@@ -1,0 +1,6 @@
+[submodule "TinyZero"]
+	path = TinyZero
+	url = https://github.com/Jiayi-Pan/TinyZero.git
+[submodule "Qwen2.5-Math"]
+	path = Qwen2.5-Math
+	url = https://github.com/QwenLM/Qwen2.5-Math.git
